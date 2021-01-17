@@ -1,0 +1,2 @@
+C:\Users\user\Documents\GitHub\AndroidLib\AndroidLib\obj\Debug\AndroidLib.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\AndroidLib\AndroidLib\obj\Debug\AndroidLib.csproj.CoreCompileInputs.cache

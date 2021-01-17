@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mrivai.Pelitabangsa.AAPT" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACAAAAQAAAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Classes\AAPT\AAPT.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Signer" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Classes\Signer\Signer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Banner" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAADACAAAQAAAAIEAMACEABAAAAAQAAAECAAAADgAAA=</HashCode>
+      <FileName>Classes\Util\Banner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.FileTransfer" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAACAAAAAAAAAAAAAAAAAQQEoAEAAAAAACAAEAAA=</HashCode>
+      <FileName>Classes\Util\FileTransfer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.InputEvent" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Classes\Util\InputEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.KeyCodes" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAHgLBRgiSIgCAYrFSAAAJcfjxCAhwWiQWAnBYDY=</HashCode>
+      <FileName>Classes\Util\KeyCodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.MinicapStream" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgQIAAAABABACAQACAQAABAAIABAAAAAQAUAIAAAAQA=</HashCode>
+      <FileName>Classes\Util\MinicapStream.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.AdbCommand" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAABAAAAAQAAAIAAAACAAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Adb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.AdbCmd" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAgAQAJAQYAgABCACIABQQAAIAAAAAAAAAACEgA=</HashCode>
+      <FileName>Classes\XiaomiController\Adb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Apps" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAgAAAABAAAEAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Classes\XiaomiController\Apps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.BatteryInfo" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQACAAGAAAEABCEgAIQAIDCABEAoAABACQAABAEAAg=</HashCode>
+      <FileName>Classes\XiaomiController\BatteryInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.BootCommand" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAABAAAAAQAAAIAAAACAAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\BootImg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.BootImg" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAgIBAAAAAAAAAABAAAAAAAJAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\BootImg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.BuildProp" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAACAAAAAAAECAAAAAAAAAAAAAAAAAAgAQEAABA=</HashCode>
+      <FileName>Classes\XiaomiController\BuildProp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.BusyBox" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAiACBAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Classes\XiaomiController\BusyBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.ClientServer" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAwKJAAAGIAJQUJlACBIIADAIoAABQAADEFUIESACAg=</HashCode>
+      <FileName>Classes\XiaomiController\ClientServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Device" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>qwTFVETATDGpvFGCExkAAwNJEiEJxAcsDuzCLHAqoDU=</HashCode>
+      <FileName>Classes\XiaomiController\Device.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.DeviceHasNoRootException" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Exceptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.FastbootCommand" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAABAAAAAQAAAIAAAACAAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Fastboot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Fastboot" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAQIAAAgAAAAwAAAAAAAQAAAAAIAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Fastboot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.MountInfo" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEABAAAAAQAAAAAAAAAAAAAAABAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Classes\XiaomiController\FileSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.FileSystem" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAAAACQAAAgBAAAAAAAgAAIAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\FileSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Flash" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQ4ACAGYKikEUAABQBABKRgKiAEAQAAIIAABACECAA=</HashCode>
+      <FileName>Classes\XiaomiController\Flash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Info" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAEAAAAAAgAAAAAAAAgAQAAAACAEAAAAgAAAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.MiuiCommand" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAABAAAAAQAAAIAAAACAAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Miuidl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Miuidl" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAEAgAIBUgAAAAAAAASABAQAQAAEgAAgIAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Miuidl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Gpt" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Miuidl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Monkey" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAQAAAAAAAAAAAAAAACAAAEAAAACAAAI=</HashCode>
+      <FileName>Classes\XiaomiController\Monkey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.NgrokCommand" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAABAAAAAQAAAIAAAACAAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Ngrok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Ngrok" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAAAAgAAAAAAAAAgAAAAIAAAEAgBAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Ngrok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Phones" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAQACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Phone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Su" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAIAA=</HashCode>
+      <FileName>Classes\XiaomiController\Su.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.XiaomiController" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMEAAABEACAAQABBAgEACAQgAABAIAAgQAAgAAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\XiaomiController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Modul.CommandPacket" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAFAAAAAABABAAAAAQABAAACAgBAAAIQ=</HashCode>
+      <FileName>Classes\Modul\CommandPacket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Modul.Firehose" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAIBAAAAAgABAAAAAFKAAAAAAAAAAAAQwAAA=</HashCode>
+      <FileName>Classes\Modul\Firehose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Modul.Sahara" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAIAAAAIAAAIAAIAAAAAIABAAACAgAABIAAAA=</HashCode>
+      <FileName>Classes\Modul\Sahara.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Modul.SoftwareImage" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAEAAAAAAAACAAAAAAAAAAAAAAAAAAAIAAAAAABAA=</HashCode>
+      <FileName>Classes\Modul\SoftwareImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Modul.Sparse" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAABAQAAAAAAQAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Classes\Modul\Sparse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Util.Comm" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQIAAACAYAAIgEAAAEAgAAhCAgkCIAAS1AAAACIgAA=</HashCode>
+      <FileName>Classes\Util\Comm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Util.CommandFormat" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAQAAAAAAAA=</HashCode>
+      <FileName>Classes\Util\CommandFormat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Pelitabangsa.Util.FileSearcher" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Util\FileSearcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Command" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIgAAAAAAAACAAQEABAAAAAAAAAAABABAAAACERAAAA=</HashCode>
+      <FileName>Classes\Util\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Driver" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAACAABAAAAAAKAAAAgAAAAAAA=</HashCode>
+      <FileName>Classes\Util\Driver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Extract" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Util\Extract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Hasher" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAgAAAAAAAAAAIAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Util\Hasher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Java" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAAAAAAAAAEQAmAAQAAAAAAAQAAAA0AAAI=</HashCode>
+      <FileName>Classes\Util\Java.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Logger" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Classes\Util\Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.Message" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Util\Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.MiDriver" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAQAAAAAgEAAAA=</HashCode>
+      <FileName>Classes\Util\MiDriver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.ResourceFolderManager" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAABAAAAAAAAARgAEAA=</HashCode>
+      <FileName>Classes\Util\ResourceFolderManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.SocketData" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAABAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Util\SocketData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mrivai.ExtensionMethods" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Util\Util.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Mrivai.Pelitabangsa.Modul.FlashType" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAA=</HashCode>
+      <FileName>Classes\Modul\FlashType.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mrivai.Pelitabangsa.Modul.Programmer" Collapsed="true">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Modul\Programmer.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mrivai.Pelitabangsa.Modul.sahara_64b_readdata_packet" Collapsed="true">
+    <Position X="4" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAACAAAAAAAAAAAAABABAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Classes\Modul\sahara_64b_readdata_packet.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mrivai.Pelitabangsa.Modul.sahara_done_response" Collapsed="true">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAABABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Modul\sahara_done_response.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mrivai.Pelitabangsa.Modul.sahara_end_transfer_packet" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACEAAAAAAAAAAAABABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Modul\sahara_end_transfer_packet.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mrivai.Pelitabangsa.Modul.sahara_hello_packet" Collapsed="true">
+    <Position X="9.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAIgAAAAAAAAABAJAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Modul\sahara_hello_packet.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mrivai.Pelitabangsa.Modul.sahara_hello_response" Collapsed="true">
+    <Position X="11" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAEAIgAAAAAAAAABAJAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Modul\sahara_hello_response.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mrivai.Pelitabangsa.Modul.sahara_packet" Collapsed="true">
+    <Position X="12.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Modul\sahara_packet.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mrivai.Pelitabangsa.Modul.sahara_readdata_packet" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAACAAAAAAAAAAAAABABAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Classes\Modul\sahara_readdata_packet.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mrivai.Pelitabangsa.Modul.sahara_switch_Mode_packet" Collapsed="true">
+    <Position X="2.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAABABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Modul\sahara_switch_Mode_packet.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mrivai.Pelitabangsa.Modul.SparseChunkHeader" Collapsed="true">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAEAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAgA=</HashCode>
+      <FileName>Classes\Modul\SparseChunkHeader.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mrivai.Pelitabangsa.Modul.SparseImageHeader" Collapsed="true">
+    <Position X="5.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAQAAEQAAIAAFAAAAAAABABAAAAAAAAA=</HashCode>
+      <FileName>Classes\Modul\SparseImageHeader.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Mrivai.Pelitabangsa.Modul.Storage" Collapsed="true">
+    <Position X="7.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Modul\Storage.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Mrivai.Pelitabangsa.AddImageStream" Collapsed="true">
+    <Position X="0.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Util\MinicapStream.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Mrivai.Pelitabangsa.ListingType" Collapsed="true">
+    <Position X="7.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAQAAAAAAAAAAAAAAEAAAQAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mrivai.Pelitabangsa.DeviceState" Collapsed="true">
+    <Position X="2.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAABCAACAYAAAABAAAAAAACAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mrivai.Pelitabangsa.MountType" Collapsed="true">
+    <Position X="9.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAQAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mrivai.Pelitabangsa.DevicePartition" Collapsed="true">
+    <Position X="0.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAhAAACAAAAA=</HashCode>
+      <FileName>Classes\XiaomiController\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mrivai.Pelitabangsa.KeyEventCode" Collapsed="true">
+    <Position X="5.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>okAELoQAAIAGIQIIlkAgCAWCEAmABhYKAOAIv///ZQM=</HashCode>
+      <FileName>Classes\XiaomiController\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mrivai.HashType" Collapsed="true">
+    <Position X="4" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Classes\Util\Hasher.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mrivai.SocketCommand" Collapsed="true">
+    <Position X="11" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAACAAAAAAACBAAIIgAgIAMgAAAAAAAEAAQAjAEAA=</HashCode>
+      <FileName>Classes\Util\SocketData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Mrivai.Pelitabangsa.MinicapEventHandler" Collapsed="true">
+    <Position X="0.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Util\MinicapStream.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
